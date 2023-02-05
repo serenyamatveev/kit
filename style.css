@@ -1,0 +1,262 @@
+.himg {
+    position: absolute;
+    width: 200px;
+    height: 153.85px;
+    left: 155px;
+    top: -6px;
+}
+.hp {
+    position: absolute;
+    width: 193px;
+    height: 135px;
+    left: 164px;
+    top: 100px;
+
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 45px;
+/* or 141% */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.05em;
+    text-transform: capitalize;
+    font-feature-settings: 'tnum' on, 'lnum' on, 'case' on, 'cpsp' on;
+
+    color: #000000;
+    font-variation-settings: 'slnt' -8;
+}
+.hr {
+/* Rectangle 1 */
+
+
+position: absolute;
+width: 97.11px;
+height: 31.61px;
+left: 85px;
+top: 241.99px;
+
+background: #D9D9D9;
+border-radius: 20px;
+transform: rotate(-0.58deg);
+
+
+/* история */
+
+
+position: absolute;
+width: 77px;
+height: 10px;
+left: 92.26px;
+top: 251.46px;
+
+text-decoration: none;
+padding: 10px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 900;
+font-size: 16px;
+line-height: 10px;
+/* identical to box height, or 62% */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.05em;
+text-transform: capitalize;
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+color: #000000;
+font-variation-settings: 'slnt' -8;
+
+}
+.himg2 {
+    /* pngimg 4 */
+
+
+position: absolute;
+width: 98px;
+height: 94px;
+left: 208px;
+top: 232px;
+}
+.ha {
+    /* Rectangle 2 */
+
+
+position: absolute;
+width: 97.11px;
+height: 31.61px;
+left: 349px;
+top: 240.99px;
+
+background: #D9D9D9;
+border-radius: 20px;
+transform: rotate(-0.58deg);
+
+
+/* Мероприятия */
+
+
+position: absolute;
+width: 101px;
+height: 20px;
+left: 345px;
+top: 249px;
+
+text-decoration: none;
+padding: 10px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 900;
+font-size: 16px;
+line-height: 10px;
+/* or 62% */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.05em;
+text-transform: capitalize;
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+color: #000000;
+font-variation-settings: 'slnt' -8;
+}
+.mh {
+    /* История */
+
+
+position: absolute;
+width: 150px;
+height: 6px;
+left: 186px;
+top: 354px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 900;
+font-size: 32px;
+line-height: 30px;
+/* or 94% */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.05em;
+text-transform: capitalize;
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+color: #000000;
+font-variation-settings: 'slnt' -8;
+}
+.mp{
+    /* Rectangle 4 */
+
+
+position: absolute;
+width: 378px;
+height: 500px;
+left: 80px;
+top: 330px;
+
+background: #D9D9D9;
+}
+.mpp {
+    /* Китайский Новый год, который в дословном переводе называется Праздник весны (кит. трад. 春節, упр. 春节, пиньинь Chūnjié, палл. Чуньцзе), с давних времен является главным и самым продолжительным праздником в Китае и других странах Восточной Азии. */
+
+
+position: absolute;
+width: 268px;
+height: 450px;
+left: 127px;
+top: 410px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 900;
+font-size: 16px;
+line-height: 30px;
+/* or 188% */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.05em;
+text-transform: capitalize;
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+color: #000000;
+font-variation-settings: 'slnt' -8;
+}
+.mp2 {
+/* Rectangle 6 */
+
+
+position: absolute;
+width: 378px;
+height: 500px;
+left: 80px;
+top: 923px;
+
+background: #D9D9D9;
+}
+.mh2 {
+/* мероприятия */
+
+
+position: absolute;
+width: 175px;
+height: 20px;
+left: 175px;
+top: 943px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 900;
+font-size: 32px;
+line-height: 30px;
+/* or 94% */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.05em;
+text-transform: capitalize;
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+color: #000000;
+font-variation-settings: 'slnt' -8;
+}
+.mpp2 {
+/* Цикл новогодних празднеств традиционно начинается в первый день первого же месяца кит. 正月, пиньинь zhēngyuè китайского календаря и заканчивается Праздником фонарей, который наступает на 15-й день празднований . В эту новогоднюю пору большинство китайцев собираются семьями на свой ежегодный ужин воссоединения. */
+
+
+position: absolute;
+width: 352px;
+height: 420px;
+left: 85px;
+top: 1018px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 900;
+font-size: 16px;
+line-height: 30px;
+/* or 188% */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.05em;
+text-transform: capitalize;
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+color: #000000;
+font-variation-settings: 'slnt' -8;
+}
